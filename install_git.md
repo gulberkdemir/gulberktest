@@ -1,6 +1,6 @@
 # install git on Ubuntu
 
-##Step 1 # Install git
+## Step 1 # Install git
 ```
 sudo apt-get update
 sudo apt-get install git
